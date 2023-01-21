@@ -1,0 +1,22 @@
+{
+  "name": "lottery-contract",
+  "version": "1.0.0",
+  "description": "Smart contract for a lottery on Ethereum blockchain",
+  "main": "Lottery.sol",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaankacar/Lottery-Contract.git"
+  },
+  "author": "Kaan Kacar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaankacar/Lottery-Contract/issues"
+  },
+  "homepage": "https://github.com/kaankacar/Lottery-Contract#readme"
+}
