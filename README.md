@@ -38,5 +38,3 @@ This code is distributed under the MIT license.
 
 ## Disclaimer
 Please note that this contract is for demonstration purposes only and should not be used in a production environment without proper testing and security review. As with any smart contract, it is possible that bugs or vulnerabilities may exist in the code. Use at your own risk.
-
-Also, you should make sure to test your contract thoroughly, and also make sure that you understand the security implications of smart contract development, and the best practices to follow.
